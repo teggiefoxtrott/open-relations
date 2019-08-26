@@ -1,8 +1,8 @@
 # open-relations
 
 Mission Statement: 
-Bring customers and big business together with our sourcing solutions, built by the famous IDE and its powerful UI System, Unity 2019-.
+Bring customers and big business together with our sourcing solutions.
 
-Project #1: CRM
+Project #1: Task Management System w/ Built-In CRM and External Database Functionality
 
 
